@@ -1,0 +1,2 @@
+H:\Uno1\Uno1\bin\Debug\Uno1.exe.config
+H:\Object Orientedd Programing\uno\Uno1\Uno1\bin\Debug\Uno1.exe.config
